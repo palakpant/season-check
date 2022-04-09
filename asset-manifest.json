@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/season-check/static/css/main.898c9a0b.css",
+    "main.js": "/season-check/static/js/main.e80064a1.js",
+    "index.html": "/season-check/index.html",
+    "main.898c9a0b.css.map": "/season-check/static/css/main.898c9a0b.css.map",
+    "main.e80064a1.js.map": "/season-check/static/js/main.e80064a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.898c9a0b.css",
+    "static/js/main.e80064a1.js"
+  ]
+}
